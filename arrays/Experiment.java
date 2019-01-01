@@ -1,5 +1,3 @@
-package arrays;
-
 import java.util.Scanner;
 
 public class Experiment 
@@ -41,7 +39,5 @@ public class Experiment
 		{
 			System.out.print(missAnswer[i] + " ");
 		}
-		
-
 	}
 }
